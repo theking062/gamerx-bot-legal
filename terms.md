@@ -8,4 +8,3 @@ By using the GamerX OverlordEnforcer Discord Bot, you agree to the following ter
 - The bot is intended for moderation and fun purposes only.
 
 If you do not agree with these terms, please do not use the bot.
-
